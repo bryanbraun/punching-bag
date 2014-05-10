@@ -1,2 +1,3 @@
 Pow!
 Wham!
+Thwack!
